@@ -1,4 +1,4 @@
-Faça um programa que leia uma string com um número de telefone com DDD e verifique se é um número de telefone, ou um número de telefone celular válido.
+Um programa que lê uma string com um número de telefone com DDD e verifique se é um número de telefone, ou um número de celular válido.
  
 Exemplo a pessoa ira digitar:
 (21) 3791-7284
